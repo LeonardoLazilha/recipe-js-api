@@ -36,7 +36,7 @@ A simple API developed with Node.js, Express, and MongoDB, created with a focus 
 
 #### 1. Clone the repository
 ```
-git clone https://github.com/LeonardoLazilha/RecipeApi.git
+git clone https://github.com/LeonardoLazilha/recipe-js-api.git
 ```
 
 #### 2. Install dependencies
